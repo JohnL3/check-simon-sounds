@@ -2,10 +2,10 @@ let d = (...x) => console.log(...x);
 	
 	
 function Simon() {
-	let greenAudio  = new Audio('https://spencerbarriball.github.io/Life-Expectancy-Correlation/assets/sounds/sounds_01.mp3'),
-		  redAudio    = new Audio('https://spencerbarriball.github.io/Life-Expectancy-Correlation/assets/sounds/sounds_02.mp3'),
-		  yellowAudio = new Audio('https://spencerbarriball.github.io/Life-Expectancy-Correlation/assets/sounds/sounds_03.mp3'),
-		  blueAudio   = new Audio('https://spencerbarriball.github.io/Life-Expectancy-Correlation/assets/sounds/sounds_04.mp3'),
+	let greenAudio  = new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/sounds_01.mp3'),
+		  redAudio    = new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/sounds_02.mp3'),
+		  yellowAudio = new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/sounds_03.mp3'),
+		  blueAudio   = new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/sounds_04.mp3'),
 		  errorAudio = new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/errorbsound.mp3');
 	
 
