@@ -2,7 +2,7 @@ let d = (...x) => console.log(...x);
 	
 	
 function Simon() {
-	let greenAudio  = new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/simonSound1.mp3'),
+	let greenAudio  = new Audio('https://raw.githubusercontent.com/pffy/mp3-piano-sound/master/mp3/a1.mp3'),//new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/simonSound1.mp3'),
 		  redAudio    = new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/simonSound2.mp3'),
 		  yellowAudio = new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/simonSound3.mp3'),
 		  blueAudio   = new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/simonSound4.mp3'),
