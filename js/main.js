@@ -2,10 +2,10 @@ let d = (...x) => console.log(...x);
 	
 	
 function Simon() {
-	let greenAudio  = new Audio('https://raw.githubusercontent.com/pffy/mp3-piano-sound/master/mp3/a1s.mp3'),//new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/simonSound1.mp3'),
-		  redAudio    = new Audio('https://raw.githubusercontent.com/pffy/mp3-piano-sound/master/mp3/b1.mp3'),
-		  yellowAudio = new Audio('https://raw.githubusercontent.com/pffy/mp3-piano-sound/master/mp3/c1.mp3'),
-		  blueAudio   = new Audio('https://raw.githubusercontent.com/pffy/mp3-piano-sound/master/mp3/d1.mp3'),
+	let greenAudio  = new Audio('https://raw.githubusercontent.com/pffy/mp3-piano-sound/master/mp3/d1s.mp3'),//new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/simonSound1.mp3'),
+		  redAudio    = new Audio('https://raw.githubusercontent.com/pffy/mp3-piano-sound/master/mp3/e1.mp3'),
+		  yellowAudio = new Audio('https://raw.githubusercontent.com/pffy/mp3-piano-sound/master/mp3/f1s.mp3'),
+		  blueAudio   = new Audio('https://raw.githubusercontent.com/pffy/mp3-piano-sound/master/mp3/g1s.mp3'),
 		  errorAudio = new Audio('https://raw.githubusercontent.com/JohnL3/Photos/master/errorbsound.mp3');
 	
 
